@@ -11,12 +11,12 @@ Required programming language and version:  `Python 3.11`. Tutorials can be foun
 
 ## About this repository
 
+> Still under construction. 
+
 This repository contains scripts related to the studio's CoDrone EDU platforms (from Robolink), nicknamed Johnny.
 
 
 ### Structure
-
-> This repository is still under construction. 
 
 **demos**:  examples of CoDrone EDU's capabilities, aimed at students' activities.
 
