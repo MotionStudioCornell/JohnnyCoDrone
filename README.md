@@ -6,9 +6,8 @@ Quadcopter + controller developed by Robolink. Acquired Fall 2023 for the studio
 
 Official documentation can be found [here](https://learn.robolink.com/product/codrone-edu/). 
 
+Required programming language and version:  `Python 3.11`. Tutorials can be found [here](https://learn.robolink.com/course/python-with-codrone-edu/). 
 
-Python programming tutorials can be found [here](https://learn.robolink.com/course/python-with-codrone-edu/). 
-Required version: ` Python 3.11`.
 
 ## About this repository
 
