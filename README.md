@@ -31,6 +31,6 @@ This repository contains scripts related to the studio's CoDrone EDU platforms (
 ### Authors
 - Beatriz Asfora, PhD. 
     - E: ba386@cornell.edu
-- Nikolai Nekrutenko, M.Eng. - worked on `/sibley_demo`
+- Nikolai Nekrutenko - worked on `/sibley_demo`
     - E: nan34@cornell.edu
 
