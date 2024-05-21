@@ -8,7 +8,7 @@ Official documentation can be found [here](https://learn.robolink.com/product/co
 
 Required programming language and version:  `Python 3.11`. Tutorials can be found [here](https://learn.robolink.com/course/python-with-codrone-edu/). 
 
-Using latest version of Python for the `sibley_demo.ipynb`
+Using latest version of Python for the `/sibley_demo`
 
 ## About this repository
 
@@ -24,12 +24,12 @@ This repository contains scripts related to the studio's CoDrone EDU platforms (
 
 **toolbox**: customized modular functions, e.g. drone startup, basic commands etc.
 
-**sibley_demo.ipynb**: demo for the Sibley 150 Anniversary Event Motion Studio tours
+**/sibley_demo**: demo for the Sibley 150 Anniversary Event Motion Studio tours
 
 ### Authors
 
 - Beatriz Asfora, PhD. 
     - E: ba386@cornell.edu
-- Nikolai Nekrutenko - working on `sibley_demo.ipynb`
+- Nikolai Nekrutenko - worked on `/sibley_demo`
     - E: nan34@cornell.edu
 
