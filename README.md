@@ -25,11 +25,12 @@ This repository contains scripts related to the studio's CoDrone EDU platforms (
 **toolbox**: customized modular functions, e.g. drone startup, basic commands etc.
 
 **/sibley_demo**: demo for the Sibley 150 Anniversary Event Motion Studio tours
+- **sibley_demo.ipynb**: Final version of script used for the demo
+- **siblet_demo_tests.ipynb**: Test functions and code blocks used for development of the final version, `sibley_demo.ipynb`
 
 ### Authors
-
 - Beatriz Asfora, PhD. 
     - E: ba386@cornell.edu
-- Nikolai Nekrutenko - worked on `/sibley_demo`
+- Nikolai Nekrutenko, M.Eng. - worked on `/sibley_demo`
     - E: nan34@cornell.edu
 
